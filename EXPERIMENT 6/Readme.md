@@ -1,3 +1,5 @@
+## EXPERIMENT 6: Simulation of Heart Dynamics
+
 ## AIM
 To simulate simplified cardiac activation and pressure dynamics in MATLAB.
 
